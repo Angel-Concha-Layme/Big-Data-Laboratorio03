@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Angel Tomas Concha Layme
-
+- Jack Christopher Huaihua Huayhua
 
 ## Configuración de un Clúster de Hadoop en Docker y Análisis de Datos
 
