@@ -4,7 +4,7 @@
 
 - Angel Tomas Concha Layme
 - Jack Christopher Huaihua Huayhua
-
+- Elizabeth Yasmin Huanca Parqui
 ## Configuración de un Clúster de Hadoop en Docker y Análisis de Datos
 
 Este documento describe los pasos para configurar un clúster de Hadoop en Docker, y realizar el análisis de datos utilizando MapReduce. 
